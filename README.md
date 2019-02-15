@@ -1,2 +1,2 @@
-# Electric_Pick_Gun
+# Electric-Pick-Gun
 My advanced vibrations project
